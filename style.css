@@ -62,6 +62,9 @@ a{
     width: 165px;
     height: 60px;
     border:5px solid #333;
+    padding: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
     box-shadow:4px 4px 2px 2px gray;
     display: flex;
     }
@@ -82,6 +85,9 @@ a{
     width: 165px;
     height: 60px;
     border:5px solid #333;
+    padding: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
     box-shadow:4px 4px 2px 2px gray;
     display: flex;
 }
