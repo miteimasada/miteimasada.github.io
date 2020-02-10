@@ -9,6 +9,13 @@
         width: 80%;
     }
 
+    .profile img{
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+        margin: auto;
+      }
+
     .profile p{
         padding:auto;
     }
@@ -23,6 +30,8 @@
 
     .instagram{
         width:100%;
+        margin-right:
+        20px
     }
 
     .contents-hp{
