@@ -1,0 +1,59 @@
+@media all and (max-width: 670px){
+    
+    .contents{
+        display: unset;
+    }
+
+    .profile{
+        margin: 20px;
+        width: 80%;
+    }
+
+    .profile p{
+        padding:auto;
+    }
+
+    .sns-link{
+        margin: 20px;
+    }
+
+    .twitter{
+        width: 100%;
+    }
+
+    .instagram{
+        width:100%;
+    }
+
+    .contents-hp{
+        width:100%;
+        height: 60px;
+        display: flex;
+        margin-right: 20px;
+    }
+
+    .contents-hp img{
+        width:50px;
+        height: 50px;
+        margin: auto;
+    }
+
+    .contents-app{
+        width:100%;
+        height: 60px;
+        display: flex;
+        margin-right:40px;
+    }
+    .contents-app img{
+        width:50px;
+        height: 50px;
+        margin: auto;
+    }
+
+
+
+    .contents-right p{
+        font-size: 20px;
+        margin: auto;
+    }
+}
