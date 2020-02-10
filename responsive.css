@@ -1,5 +1,10 @@
 @media all and (max-width: 670px){
     
+    .header-logo{
+        padding-top: 40px;
+        font-size: 50p;
+    }
+    
     .contents{
         display: unset;
     }
