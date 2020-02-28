@@ -17,6 +17,10 @@ header{
     z-index: 100;
 }
 
+.wrap{
+    overflow:hidden;
+}
+
 .nav-menu li {
     list-style: none;
   }
